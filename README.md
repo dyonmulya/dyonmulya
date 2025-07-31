@@ -80,7 +80,7 @@
         <td>
             <dl>
                 <dd>
-                    Pemilik & Pendiri, XVIID<br>
+                    Pemilik & Pendiri — <a target="_blank" href="https://xviid.com/">XVIID</a><br>
                     <sub>2020 - Sekarang</sub>
                 </dd>
             </dl>
@@ -91,7 +91,7 @@
         <td>
             <dl>
                 <dd>
-                    CEO & Pendiri, Awesic<br>
+                    CEO & Pendiri — <a target="_blank" href="https://awesic.com/">Awesic</a><br>
                     <sub>2025 - Sekarang</sub>
                 </dd>
             </dl>
@@ -102,7 +102,7 @@
         <td>
             <dl>
                 <dd>
-                    Komisaris, Gloogia<br>
+                    Komisaris — <a target="_blank" href="https://gloogia.com/">Gloogia</a><br>
                     <sub>2021 - Sekarang</sub>
                 </dd>
             </dl>
@@ -113,7 +113,7 @@
         <td>
             <dl>
                 <dd>
-                    Komisaris, Rin Jaya<br>
+                    Chief Technology Officer — <a targe="_blank" href="https://rinjaya.com/">Rin Jaya</a><br>
                     <sub>2025 - Sekarang</sub>
                 </dd>
             </dl>
@@ -124,8 +124,19 @@
         <td>
             <dl>
                 <dd>
-                    Pendiri & Fullstack, Alapnian<br>
+                    Pendiri & Fullstack — <a target="_blank" href="https://alapnian.com/">Alapnian</a><br>
                     <sub>2025 - Sekarang</sub>
+                </dd>
+            </dl>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><a target="_blank" href="https://timah.com/"><img width="55" alt="Alapnian" src="https://upload.wikimedia.org/wikipedia/id/4/40/Timah_Logo1.png"/></a></td>
+        <td>
+            <dl>
+                <dd>
+                    Magang Bersertifikat (PMMB Batch 1 Tahun 2020) — <a target="_blank" href="https://timah.com/">PT Timah Tbk</a><br>
+                    <sub>2020</sub>
                 </dd>
             </dl>
         </td>
