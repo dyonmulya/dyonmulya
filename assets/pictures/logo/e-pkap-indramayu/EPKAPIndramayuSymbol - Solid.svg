@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Symbol" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="17.36" y1="42.65" x2="56.12" y2="42.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3aa1f2"/>
+      <stop offset="1" stop-color="#0b83e2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="7.88" y1="42.65" x2="46.64" y2="42.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5e04ea"/>
+      <stop offset="1" stop-color="#8643f4"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="32.37" cy="8.91" fx="32.37" fy="8.91" r="8.91" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c2c2c2"/>
+      <stop offset="1" stop-color="#7a7a7a"/>
+    </radialGradient>
+  </defs>
+  <g id="Logo">
+    <path class="cls-3" d="M17.36,50.1s23.68-5.46,28.17-28.55c.14-.72,10.59,0,10.59,3.69-.01,22.93-24.12,38.76-24.12,38.76,0,0-10.27-7.35-14.64-13.9Z"/>
+    <path class="cls-1" d="M46.64,50.1s-23.68-5.46-28.17-28.55c-.14-.72-10.59,0-10.59,3.69.01,22.93,24.12,38.76,24.12,38.76,0,0,10.27-7.35,14.64-13.9Z"/>
+    <circle class="cls-2" cx="32.37" cy="8.91" r="8.91"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #616161;
+        font-family: VarelaRound-Regular, 'Varela Round';
+        font-size: 19.26px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(0 37.42)"><tspan class="cls-3" x="0" y="0">A</tspan><tspan class="cls-1" x="13.67" y="0">w</tspan><tspan x="28.79" y="0">esic</tspan></text>
+</svg>
