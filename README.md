@@ -60,7 +60,7 @@
 <table>
     <tr>
         <td align="center">
-            <a targe="_blank" title="Universitas Teknologi Bandung" href="https://utb-univ.ac.id/"><img height="100" alt="UTB-Univ Logo" src="https://m.utb-univ.id/assets/logoutb.webp"/></a>
+            <a targe="_blank" title="Universitas Teknologi Bandung" href="https://utb-univ.ac.id/"><img height="100" alt="UTB-Univ Logo" src="https://webutama.utb-univ.ac.id/storage/uploads/images/254721151_utb_kotak.png"/></a>
         </td>
         <td align="center">
             <a targe="_blank" title="Madrasah Aliyah Negeri 1 Indramayu" href="https://man1indramayu.sch.id/"><img height="80" alt="Mantuayu Logo" src="https://man1indramayu.sch.id/wp-content/uploads/2021/01/cropped-1kemenag-1.png"/></a><br>
@@ -146,5 +146,5 @@
 <hr>
 
 <p align="center">
-    <sup>Diperbarui : 29 Juli 2025</sup>
+    <sup>Diperbarui : 04 November 2025</sup>
 </p>
